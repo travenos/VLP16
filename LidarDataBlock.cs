@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HelloWorldOpenCV
+namespace LidarVLP16
 {
     /// <summary>
     /// Один блок данных с лидара (азимут;расстояния с 16-ти каналов; степени отражения

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 
-namespace HelloWorldOpenCV
+namespace LidarVLP16
 {
     /// <summary>
     /// Класс для обработки данных с лидара VLP-16
